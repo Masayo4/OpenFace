@@ -29,8 +29,7 @@ UとA: Uは片側だけに起こるが左や右の指定がない, Aは片側だ
 
 #### 各ユニットが示すパーツ
 [イメージ画像](https://www.cs.cmu.edu/~face/facs.htm)  
-| Unit number | English | 日本語 |  
-|:-----------|:------------|:------------|  
+ 
 |0	|Neutral face|	中立顔 |  
 |1	|Inner brow raiser|	内側の眉毛が上がる |  
 |2	|Outer brow raiser|	外側の眉毛が上がる |  
